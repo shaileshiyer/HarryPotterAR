@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Git\\HarryPotterAR\\ArJpctBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
+        "source": "D:\\Git\\HarryPotterAR\\ArJpctBaseLib\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "C:\\Users\\shailesh\\Androidprojects\\HarryPotterAR\\ArJpctBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\shailesh\\Androidprojects\\HarryPotterAR\\ArJpctBaseLib\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
     }
