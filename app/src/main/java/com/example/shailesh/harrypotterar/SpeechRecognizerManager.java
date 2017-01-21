@@ -79,6 +79,7 @@ public class SpeechRecognizerManager {
             @Override
             protected void onPostExecute(Exception result) {
                 if (result != null) {
+                    /*yup looks like changes are being synced*/
                     Toast.makeText(mContext, "Failed to initialise pocketSphinxRecognizer ", Toast.LENGTH_LONG).show();
                 } else {
                     switchSearch(KWS_SEARCH);
